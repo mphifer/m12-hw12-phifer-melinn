@@ -8,3 +8,48 @@ article, aside, details, figcaption, figure, footer, header, main, nav, section,
     display:block;
 }
 
+body {
+	font-family: 'Open Sans', sans-serif;
+	text-align: center;
+	background-color: #013220;
+	background-image: url(images/mountains.jpeg);
+	background-position: center;
+	background-repeat: no-repeat;
+	background-size: cover;
+}
+
+h1 {
+	font-family: 'Secular One', sans-serif;
+	font-size: 2.5rem;
+	text-transform: uppercase;
+	color: white;
+	padding: 40px 2%;
+	background-color: #00022e;
+}
+
+h2 {
+	color: white;
+	font-size: 2.2rem;
+	text-shadow: 2px 2px #00022e;
+}
+
+section {
+	padding: 100px 2%;
+}
+
+button {
+	color: navy;
+	padding: 10px 14px;
+	text-transform: uppercase;
+	border: #00022e solid 4px;
+	font-size: 1.6rem;
+	margin-top: 30px;
+}
+
+#place {
+	color: white;
+	font-family: 'Secular One', sans-serif;
+	text-transform: uppercase;
+	font-size: 2.5rem;
+	margin-top: 20px;
+}
